@@ -1,0 +1,15 @@
+C:\Users\ls139\Desktop\listas de lógica\excebolinha\obj\Debug\net9.0\excebolinha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ls139\Desktop\listas de lógica\excebolinha\obj\Debug\net9.0\excebolinha.AssemblyInfoInputs.cache
+C:\Users\ls139\Desktop\listas de lógica\excebolinha\obj\Debug\net9.0\excebolinha.AssemblyInfo.cs
+C:\Users\ls139\Desktop\listas de lógica\excebolinha\obj\Debug\net9.0\excebolinha.csproj.CoreCompileInputs.cache
+C:\Users\ls139\Desktop\listas de lógica\excebolinha\obj\Debug\net9.0\excebolinha.sourcelink.json
+C:\Users\ls139\Desktop\listas de lógica\excebolinha\bin\Debug\net9.0\excebolinha.exe
+C:\Users\ls139\Desktop\listas de lógica\excebolinha\bin\Debug\net9.0\excebolinha.deps.json
+C:\Users\ls139\Desktop\listas de lógica\excebolinha\bin\Debug\net9.0\excebolinha.runtimeconfig.json
+C:\Users\ls139\Desktop\listas de lógica\excebolinha\bin\Debug\net9.0\excebolinha.dll
+C:\Users\ls139\Desktop\listas de lógica\excebolinha\bin\Debug\net9.0\excebolinha.pdb
+C:\Users\ls139\Desktop\listas de lógica\excebolinha\obj\Debug\net9.0\excebolinha.dll
+C:\Users\ls139\Desktop\listas de lógica\excebolinha\obj\Debug\net9.0\refint\excebolinha.dll
+C:\Users\ls139\Desktop\listas de lógica\excebolinha\obj\Debug\net9.0\excebolinha.pdb
+C:\Users\ls139\Desktop\listas de lógica\excebolinha\obj\Debug\net9.0\excebolinha.genruntimeconfig.cache
+C:\Users\ls139\Desktop\listas de lógica\excebolinha\obj\Debug\net9.0\ref\excebolinha.dll
